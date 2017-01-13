@@ -1,0 +1,11 @@
+
+Envirment
+	Ubuntu12.04 x64
+	gcc 4.4.7
+
+1.install openssl zlib
+you can compile by source code, or by apt-get
+
+2.compile librtmp
+git clone git://git.ffmpeg.org/rtmpdump
+
